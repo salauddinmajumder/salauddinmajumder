@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=950&lines=🤖+AI+Engineer+|+Building+Intelligent+Coding+Agents+%26+LLM+Systems;📱+Flutter+Expert+|+16+Production+Cross-Platform+Mobile+Apps;🌐+Full-Stack+Architect+|+TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Go;🧬+ML+Engineer+|+Python+%E2%80%A2+TensorFlow+%E2%80%A2+PyTorch+%E2%80%A2+LangChain;🔥+75%2B+Projects+Delivered+Across+5+Complete+Tech+Stacks;🎓+Mentor+|+100%2B+Developers+Taught+at+Monozog;💻+Betopia+AI+|+Building+the+Future+of+Developer+Tools;⚡+From+Idea+to+Production+—+End+to+End+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=950&lines=AI+Engineer+%7C+Building+LLM+Agents+%26+Coding+Tools;Flutter+Expert+%7C+16+Production+Mobile+Apps+Shipped;Full-Stack+Dev+%7C+TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Go;ML+Engineer+%7C+Python+%E2%80%A2+PyTorch+%E2%80%A2+LangChain;75%2B+Projects+%7C+4%2B+Years+%7C+5+Tech+Stacks+Mastered;Mentor+%7C+100%2B+Developers+Taught+at+Monozog;Betopia+AI+%7C+Building+the+Future+of+Developer+Tools;From+Concept+to+Production+%E2%80%94+End+to+End+Engineering" alt="Typing SVG" />
 </div>
 
 <br>
@@ -87,7 +87,7 @@ const salauddin = {
 
 <div align="center">
   <h2>🛠️ &nbsp; Technology Arsenal</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=56D364&center=true&vCenter=true&width=600&lines=Mastered+across+5+complete+technology+stacks+%7C+75%2B+projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=56D364&center=true&vCenter=true&width=600&lines=Mastered+across+5+complete+technology+stacks+%7C+75%2B+projects+delivered" />
 </div>
 
 <br>
@@ -210,7 +210,7 @@ const salauddin = {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=salauddinmajumder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=FF6B9D&text_color=a8b2d8&bg_color=0d1117&rank_icon=percentile" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=salauddinmajumder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00D4FF&icon_color=FF6B9D&text_color=a8b2d8&bg_color=0d1117&rank_icon=percentile" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddinmajumder&theme=tokyonight&hide_border=true&ring=00D4FF&fire=FF6B9D&currStreakLabel=00D4FF&background=0d1117&sideLabels=a8b2d8&sideNums=ffffff&currStreakNum=ffffff&dates=a8b2d8" />
 </div>
 
@@ -223,7 +223,7 @@ const salauddin = {
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salauddinmajumder&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=8&margin-w=6" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salauddinmajumder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" width="100%" />
 </div>
 
 <br>
@@ -252,7 +252,7 @@ const salauddin = {
 
 <div align="center">
   <h2>🚀 &nbsp; Featured Projects</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=56D364&center=true&vCenter=true&width=700&lines=Production+systems+across+AI%2C+Mobile%2C+Web%2C+and+Backend+%E2%80%94+58+are+private" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=56D364&center=true&vCenter=true&width=700&lines=Production+systems+across+AI%2C+Mobile%2C+Web+and+Backend+%E2%80%94+58+are+private" />
 </div>
 
 <br>
@@ -483,7 +483,7 @@ Building scalable SaaS platforms with TypeScript frontend, Go microservices back
 
 <div align="center">
   <h2>🌐 &nbsp; Let's Connect &amp; Build Together</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=FF6B9D&center=true&vCenter=true&width=700&lines=Always+open+to+exciting+projects+%26+collaborations!;Available+for+contract+%7C+full-time+%7C+open-source" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=FF6B9D&center=true&vCenter=true&width=700&lines=Always+open+to+exciting+projects+%26+collaborations;Available+for+contract+%7C+full-time+%7C+open-source" />
 </div>
 
 <br>
