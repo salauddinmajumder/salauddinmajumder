@@ -223,27 +223,47 @@ const salauddin = {
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salauddinmajumder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" width="100%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=salauddinmajumder&theme=darkhub&no-frame=false&no-bg=false&row=1&column=6&margin-w=10&margin-h=10" width="100%" />
+  </a>
 </div>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ╔══════════════════════ SNAKE + 3D CONTRIB ═══════════════════╗ -->
+<!-- ╔══════════════════════ PINNED REPOS ═══════════════════╗ -->
 
 <div align="center">
-  <h2>🐍 &nbsp; Contribution Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salauddinmajumder/salauddinmajumder/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salauddinmajumder/salauddinmajumder/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/salauddinmajumder/salauddinmajumder/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <h2>📌 &nbsp; Pinned Public Repositories</h2>
+  <p><i>A glimpse of the public side — 58 private repos sit behind the curtain</i></p>
 </div>
 
 <div align="center">
-  <h2>🌐 &nbsp; 3D Contribution Calendar</h2>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
+  <a href="https://github.com/salauddinmajumder/glassy_real_navbar">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=salauddinmajumder&repo=glassy_real_navbar&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B9D&text_color=a8b2d8&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/salauddinmajumder/smart_snack">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=salauddinmajumder&repo=smart_snack&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B9D&text_color=a8b2d8&bg_color=0d1117" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/salauddinmajumder/AcademicHub---Student-Management-System">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=salauddinmajumder&repo=AcademicHub---Student-Management-System&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B9D&text_color=a8b2d8&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/salauddinmajumder/Personal-Portfolio">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=salauddinmajumder&repo=Personal-Portfolio&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B9D&text_color=a8b2d8&bg_color=0d1117" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/salauddinmajumder/UkilGiri">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=salauddinmajumder&repo=UkilGiri&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B9D&text_color=a8b2d8&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/salauddinmajumder/qlearn">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=salauddinmajumder&repo=qlearn&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF6B9D&text_color=a8b2d8&bg_color=0d1117" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -536,25 +556,8 @@ Building scalable SaaS platforms with TypeScript frontend, Go microservices back
 </div>
 
 <!--
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  SETUP: To enable Snake + 3D Contrib animations
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. SNAKE → create .github/workflows/snake.yml:
-   - uses: Platane/snk@v3
-     with:
-       github_user_name: salauddinmajumder
-       outputs: |
-         dist/github-contribution-grid-snake.svg
-         dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-   Then push outputs to /output/ branch.
-
-2. 3D CALENDAR → create .github/workflows/3d-contrib.yml:
-   - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-     with:
-       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-       USERNAME: salauddinmajumder
-       SETTING_JSON: '{"username":"salauddinmajumder","type":"nightOwl"}'
-   Outputs to profile-3d-contrib/ folder.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  README composed of: capsule-render, readme-typing-svg, skillicons.dev,
+  github-readme-stats, streak-stats, activity-graph, github-profile-trophy,
+  shields.io, komarev (visitor counter), readme-jokes.
+  Zero GitHub Actions required — all rendered live by external services.
 -->
